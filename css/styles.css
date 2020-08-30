@@ -209,7 +209,7 @@ footer p {
 }
 
 #twitter {
-	/* float: left; */
+	float: left;
 	width: 300px;
 }
 
@@ -300,7 +300,7 @@ footer a {
 	background-position: -64px 0;
 }	
 #footer-logo {
-	float: left;
+	float: right;
 	margin-top: 20px;
 	font-size: 10px;
 	text-align: right;
